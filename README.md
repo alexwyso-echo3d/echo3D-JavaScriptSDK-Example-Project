@@ -8,6 +8,6 @@ The SDK can be downloaded from `https://storage.echo3d.com/JS/Echo3DApi.zip`
 2. Upload 3D models, videos, and images to the console.
 3. Open a new terminal.
 4. Run the following in the terminal: <br>
-*`git clone https://github.com/alexwyso-echo3d/echo3D-JavaScriptSDK-Example-Project.git`<br>
-*`cd echo3D-JavaScriptSDK-Example-Project` <br>
-*`start echo3D-JavaScriptSDK-Example.html` <br>
+-`git clone https://github.com/alexwyso-echo3d/echo3D-JavaScriptSDK-Example-Project.git`<br>
+-`cd echo3D-JavaScriptSDK-Example-Project` <br>
+-`start echo3D-JavaScriptSDK-Example.html` <br>
