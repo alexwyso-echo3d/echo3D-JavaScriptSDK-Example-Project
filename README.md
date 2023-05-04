@@ -11,3 +11,12 @@ The SDK can be downloaded from `https://storage.echo3d.com/JS/Echo3DApi.zip`
 -`git clone https://github.com/alexwyso-echo3d/echo3D-JavaScriptSDK-Example-Project.git`<br>
 -`cd echo3D-JavaScriptSDK-Example-Project` <br>
 -`start echo3D-JavaScriptSDK-Example.html` <br>
+
+## Learn More
+Refer to our [documentation](https://docs.echo3D.com/unity/) to learn more about how to use Unity and echo3D.
+
+## Troubleshooting
+Visit our troubleshooting guide [here](https://docs.echo3d.com/unity/troubleshooting#im-getting-a-newtonsoft.json.dll-error-in-unity).
+
+## Support
+Feel free to reach out at [support@echo3D.com](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join). 
