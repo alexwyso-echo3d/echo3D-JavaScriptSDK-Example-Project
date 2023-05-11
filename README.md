@@ -11,7 +11,7 @@ The SDK can be downloaded [here](https://storage.echo3d.com/JS/Echo3DApi.zip).
 -`cd echo3D-JavaScriptSDK-Example-Project` <br>
 -`start echo3D-JavaScriptSDK-Example.html` <br>
 6. Copy your API key from the top of the console and paste it into the application.
-7. Optionally do the same for the secret key on the Security page of the console, if your project has it enabled.
+7. Optionally do the same for the secret key on the [Security](https://docs.echo3d.com/web-console/account-pages/security-page) page of the console, if your project has it enabled.
 8. Click "Load Key." This will allow you to keep making API calls from the same API key.
 10. Copy an entry ID by clicking the icon next to the name of any model you have uploaded to the console and paste it into the application.
 11. Outputs of API calls will display as JSON in the center textbox.
