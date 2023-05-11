@@ -16,11 +16,7 @@ The SDK can be downloaded [here](https://storage.echo3d.com/JS/Echo3DApi.zip).
 10. Copy an entry ID by clicking the icon next to the name of any model you have uploaded to the console and paste it into the application.
 11. Outputs of API calls will display as JSON in the center textbox.
 
-## Learn More
-Refer to our [documentation](https://docs.echo3D.com/unity/) to learn more about how to use Unity and echo3D.
-
-## Troubleshooting
-Visit our troubleshooting guide [here](https://docs.echo3d.com/unity/troubleshooting#im-getting-a-newtonsoft.json.dll-error-in-unity).
+## Video
 
 ## Support
 Feel free to reach out at [support@echo3D.com](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join). 
