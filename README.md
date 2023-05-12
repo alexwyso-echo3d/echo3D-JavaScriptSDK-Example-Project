@@ -3,6 +3,7 @@ This example project utilizes the echo3D JavaScript SDK to allow users to intera
 The SDK can be downloaded [here](https://storage.echo3d.com/JS/Echo3DApi.zip).
 
 ## Video
+See the video [here](https://youtu.be/Oeo5ZDN81Ls).
 
 ## Setup and Run
 1. [Register for a FREE account](https://console.echo3d.com/#/auth/register?utm_term={keyword}&utm_campaign=javascript_sdk&utm_source=github&utm_medium=sourcecontrol) at echo3D.
