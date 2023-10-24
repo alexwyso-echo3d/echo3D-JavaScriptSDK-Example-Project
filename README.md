@@ -6,7 +6,7 @@ The SDK can be downloaded [here](https://storage.echo3d.com/JS/Echo3DApi.zip).
 See the video [here](https://youtu.be/Oeo5ZDN81Ls).
 
 ## Setup and Run
-1. [Register for a FREE account](https://console.echo3d.com/#/auth/register?utm_term={keyword}&utm_campaign=javascript_sdk&utm_source=github&utm_medium=sourcecontrol) at echo3D.
+1. [Register for a FREE account](https://www.echo3d.com/signup?utm_term={keyword}&utm_campaign=javascript_sdk&utm_source=github&utm_medium=sourcecontrol) at echo3D.
 2. Upload 3D models, videos, and images to the console.
 4. Open a new terminal.
 5. Run the following in the terminal: <br>
